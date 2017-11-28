@@ -1,3 +1,4 @@
+# Using puts in front of the string prints the line out
 puts "Hello World!"
 puts "Hello Again"
 puts "I like typing this."

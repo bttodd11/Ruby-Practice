@@ -1,4 +1,4 @@
-#def means to define the function
+#def means to define the function   return prints the line out
 def add(a,b)
   puts "ADDING #{a} + #{b}"
   return a + b

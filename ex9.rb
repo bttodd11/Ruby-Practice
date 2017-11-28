@@ -1,5 +1,5 @@
 # Here's some new strange stuff, remember type it exactly.
-
+# \n means that it is going to the next line
 days = "Mon Tue Wed Thr Fri Sat Sun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 

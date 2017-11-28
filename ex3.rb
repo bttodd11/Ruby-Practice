@@ -1,5 +1,6 @@
 puts "I will now count my chickens:"
 
+# #{} It used to pass a var or to do any math 
 puts "Hens #{25 + 30/6}"
 puts "Roosers #{100-25 * 3 % 4}"
 
@@ -20,4 +21,4 @@ puts "How about some more."
 
 puts "Is it greater? #{5 > -2}"
 puts "Is it greater or equal? #{5 >= -2}"
-puts "Is it less or equal? #{5 <= -2}" 
+puts "Is it less or equal? #{5 <= -2}"
