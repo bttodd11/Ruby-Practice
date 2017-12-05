@@ -16,7 +16,7 @@ puts poem
 puts "_____________"
 
 five = 10 - 2 + 3 - 6
-puts "This should be five#{five}"
+puts "This should be five #{five}"
 
 def secret_formula(started)
   jelly_beans = started * 500
